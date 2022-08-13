@@ -1,8 +1,0 @@
-1
-feature1 1
-feature1 2
-<<<<<<< HEAD
-feature1 3
-=======
-master 1
->>>>>>> 17dd42d (master commit 1)
